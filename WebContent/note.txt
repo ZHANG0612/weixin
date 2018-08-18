@@ -1,0 +1,9 @@
+微信公众平台https://mp.weixin.qq.com/
+微信号gh_d285510810e3
+密码Zqj0612..
+
+
+ngrok官网https://www.ngrok.cc/
+ngrok登录页https://www.ngrok.cc/login
+clientId      836339a0e5f38368
+http://zhangqj.free.ngrok.cc
